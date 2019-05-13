@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">3rd</string>
+    <string name="txt_name">Name</string>
+    <string name="lb_name">Name</string>
+    <string name="lb_email">Email</string>
+    <string name="txt_mail">Email</string>
+    <string name="lb_hobbies">Hobbies</string>
+    <string name="chkb_A">A</string>
+    <string name="chkb_B">B</string>
+    <string name="chkb_C">C</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_complete">Complete</string>
+    <string name="txt_sex">Sex</string>
+    <string name="rdb_male">Male</string>
+    <string name="rdb_female">Female</string>
+    <string name="txt_laguage">Languages</string>
+    <string name="txt_ques">You have experiences with Java frameworks</string>
+    <string name="txtLan">Languages</string>
+    <string-array name="lan_array">
+        <item>---Select---</item>
+        <item>VietNamese</item>
+        <item>English</item>
+        <item>French</item>
+        <item>Chinese</item>
+    </string-array>
+</resources>
